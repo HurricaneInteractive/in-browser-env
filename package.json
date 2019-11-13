@@ -1,6 +1,6 @@
 {
   "name": "in-browser-env",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "dist/in-browser-env.umd.js",
